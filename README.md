@@ -1,16 +1,12 @@
 <h1 align="center"> 
 <img src="./files/logo.svg" height=20 alt="logo ignite lab">
-	 - Gestão de Hábitos completa com NodeJs (Back-end), ReactJs (Front-end) e React-Native (Mobile)
+	 - Habbit (Hábitos)
 </h1>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-vitrine-dev">Vitrine Dev</a> •
  <a href="#-tecnologias">Tecnologias</a> •
- <a href="#-instalação">Instalações</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-autor">Autor</a> • 
- <a href="#-licença">Licença</a>
+ <a href="#-instalação">Setup</a> •
 </p>
 
 &nbsp;
